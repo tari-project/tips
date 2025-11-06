@@ -8,7 +8,6 @@ Thank you for your interest in contributing to the Tari blockchain! This documen
 
 Before writing a formal TIP, discuss your idea with the Tari community:
 - Join discussions on the [Tari Discord](https://discord.gg/tari)
-- Post on the [Tari Forums](https://forum.tari.com)
 - Open a GitHub issue to gauge interest
 
 ### 2. Write Your TIP
