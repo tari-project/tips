@@ -226,7 +226,7 @@ registry/
 |  |  |--version/
 |  |  |  |--package/
 |  |  |  |  |--manifest.toml
-|  |  |  |  |--implmentation.lua
+|  |  |  |  |--implementation.lua
 |  |  |  |--sigs.json
 |  |  |--README.md
 |--publishers/
