@@ -94,7 +94,7 @@ t:"<slot_name>","<value>"
 
 **Parsing Pattern:**
 ```regex
-^t:"<slot>","((?s:.*?))"$
+^t:"([^"]+)","((?s:.*?))"$
 ```
 
 Where:
