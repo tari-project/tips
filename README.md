@@ -44,6 +44,7 @@ All TIPs should follow the standard template located at `TIP-template.md`. The t
 |--------|-------|--------|---------|
 | [TIP-0001](tips/TIP-0001.md) | TIP Process and Guidelines | Draft | 2025-11-04 |
 | [TIP-0002](tips/TIP-0002.md) | Example Blockchain Improvement | Draft | 2025-11-04 |
+| [TIP-0003](tips/TIP-0003.md) | Tari Hidden Address Protocol | Draft | 2025-11-06 |
 
 ## Contributing
 
