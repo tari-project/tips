@@ -1,3 +1,9 @@
+**NOTICE**
+
+Tari Improvement Proposals have been folded into the [existing RFCs](https://github.com/tari-project/rfcs) repository. Please submit new proposals in that repository.
+
+This repository has been archived, and is left here for reference.
+
 # Tari Improvement Proposals (TIPs)
 
 Welcome to the Tari Improvement Proposals repository. This repository contains a structured list of RFCs (Request for Comments) for improving the Tari blockchain.
